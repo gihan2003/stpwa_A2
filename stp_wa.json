@@ -1,10 +1,1 @@
-{
-  "records": [
-    {
-      "version": "STPWhatsApp A3.0",
-      "code": 2005,
-      "url": "http://bit.ly/DWHWhatsAppUpdate",
-      "changelog": " Fixed contact name not showing when typing toast - Fixed Unable to open the app on some phones - Fixed Crash in Message Scheduler - Fixed...FULL CHANGELOG ON WEBSITE"
-    }
-  ]
-}
+{'ver1':'2', 'ver2':'0', 'ver3':'\n[Base] 2.23.l3.76 \n\n➕[Added] Quick Reply \n➕[Added] Ios Home Style \n➕[Added] Message Delete Icon Changer \n🛠[Fixed] Send docs, media, audio up to 100MB+ size \n[Misc] General Bug Fix \n⚙️[Misc] Other fixes and improvements \n' , 'dli':'https://youtu.be/qH8sIjnSjbc?si=g6lSOU_uyoJNeaGy'}
