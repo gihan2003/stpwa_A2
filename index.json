@@ -1,1 +1,10 @@
-{'ver1':'12', 'ver2':'05', 'ver3':'\n⚡Exclusive : Base Updated to : 2.23.13.76\n🔺Added More Features\n Thanks for using AWT WhatsApp' , 'dli':'https://youtu.be/l6KssanEJRY'}
+{
+  "records": [
+    {
+      "version": "STPWhatsApp A3.0",
+      "code": 2009,
+      "url": "https://youtu.be/@stpmodss",
+      "changelog": " Fixed contact name not showing when typing toast \n Fixed Unable to open the app on some phones \n Fixed Crash in Message Scheduler \n Fixed...FULL CHANGELOG ON WEBSITE"
+    }
+  ]
+}
