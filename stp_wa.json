@@ -1,1 +1,10 @@
-{'ver1':'2', 'ver2':'0', 'ver3':'\n[Base] 2.23.l3.76 \n\n➕[Added] Quick Reply \n➕[Added] Ios Home Style \n➕[Added] Message Delete Icon Changer \n🛠[Fixed] Send docs, media, audio up to 100MB+ size \n[Misc] General Bug Fix \n⚙️[Misc] Other fixes and improvements \n' , 'dli':'https://youtu.be/qH8sIjnSjbc?si=g6lSOU_uyoJNeaGy'}
+{
+  "records": [
+    {
+      "version": "STPWhatsApp A2.1",
+      "code": 2006,
+      "url": "https://stpmodsofficial.blogspot.com/2023/10/stpwhatsapp-a21.html",
+      "changelog": " Fixed Random crash in some chats/groups \n Fixed Crash when opening STPMODS Story \n Fixed Other minor bug fixes and improvements"
+    }
+  ]
+}
